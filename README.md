@@ -19,7 +19,7 @@
 
 ### Блок-схема
 
-Исходник схемы для draw.io: [Lab4_TimeConv.drawio](Lab4_TimeConv.drawio)
+### ![Блок-схема программы](Lab3.png)
 
 * * *
 
